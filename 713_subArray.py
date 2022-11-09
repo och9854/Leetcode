@@ -37,5 +37,5 @@ class Solution(object):
 
 
 # feedback
-## PROBLEM: missed how the outputs come out(line35)
+## PROBLEM: missed how the outputs come out(line 18, 35)
 ## NEXT TIME: write down the outputs one by one
