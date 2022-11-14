@@ -46,3 +46,10 @@ class Solution:
         
         
         
+
+# feedback
+'''
+- does not have to learn only with a function -> use inner loop!
+- just code outside of inner function which need only one operation during execution
+- put others in it
+'''
