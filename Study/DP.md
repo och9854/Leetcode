@@ -22,3 +22,20 @@ Ex: [House Robber](https://leetcode.com/problems/house-robber/), [Longest Increa
 # Strategic Approach to DP
 
 ---
+
+## Framework for DP Problems
+
+---
+
+<ol>
+    <li>
+    A function or data structure that will compute/contain the answer to the problem for every given state.
+    </li>
+    <li>
+    A recurrence relation to transition between states.
+    </li>
+    <li>
+    Base cases, so that our recurrence relation doesn't go on infinitely.
+    </li>
+
+</ol>
