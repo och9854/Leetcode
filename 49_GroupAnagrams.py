@@ -9,7 +9,16 @@ class Solution:
                 output_dict[key] = []
                 output_dict[key].append(''.join(word))
             else:
-                # append in the list 
+                # append in the list
                 output_dict[key].append(''.join(word))
 
-        return(list(output_dict.values()))
+        return (list(output_dict.values()))
+
+
+# Feedback
+'''
+# Intuition
+
+Two strings are anagrams if and only if their sorted strings are equal.
+
+'''
